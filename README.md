@@ -1,5 +1,5 @@
-# react-projects-7-slider
+# React-App-Slider
 
-#### IN ACTION
+#### Practise React Js Hooks
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+{useState, useEffect}
